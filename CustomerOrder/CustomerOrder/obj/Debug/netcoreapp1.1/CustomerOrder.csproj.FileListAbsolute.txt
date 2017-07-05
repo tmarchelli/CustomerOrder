@@ -1,0 +1,18 @@
+c:\users\marchelli\documents\visual studio 2017\Projects\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.deps.json
+c:\users\marchelli\documents\visual studio 2017\Projects\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.runtimeconfig.json
+c:\users\marchelli\documents\visual studio 2017\Projects\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.runtimeconfig.dev.json
+c:\users\marchelli\documents\visual studio 2017\Projects\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.dll
+c:\users\marchelli\documents\visual studio 2017\Projects\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.AssemblyInfo.cs
+c:\users\marchelli\documents\visual studio 2017\Projects\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.pdb
+c:\users\marchelli\documents\visual studio 2017\Projects\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.dll
+c:\users\marchelli\documents\visual studio 2017\Projects\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.pdb
+C:\Users\Marchelli\Documents\Visual Studio 2017\Projects\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.csprojResolveAssemblyReference.cache
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.deps.json
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.runtimeconfig.json
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.runtimeconfig.dev.json
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.dll
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.pdb
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.csprojResolveAssemblyReference.cache
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.AssemblyInfo.cs
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.dll
+C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.pdb
