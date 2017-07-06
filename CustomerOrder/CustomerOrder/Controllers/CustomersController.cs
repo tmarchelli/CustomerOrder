@@ -14,11 +14,23 @@ namespace CustomerOrder.Controllers
     public class CustomersController : Controller
     {
         private readonly CustomerOrderContext _context;
+        public List<Customer> Customers = new List<Customer>();
+
+        //constructor just for make an instance
+        public CustomersController(List<Customer> Customers)
+        {
+            this.Customers = Customers;
+        }
 
         public CustomersController(CustomerOrderContext context)
         {
             _context = context;
         }
+
+        public CustomersController()
+        {
+        }
+
 
         // GET: /Customers
         [HttpGet]
