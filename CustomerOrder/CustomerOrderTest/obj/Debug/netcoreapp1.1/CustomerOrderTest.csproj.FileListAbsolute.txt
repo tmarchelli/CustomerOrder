@@ -12,3 +12,17 @@ C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrderTest\o
 C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrderTest\obj\Debug\netcoreapp1.1\CustomerOrderTest.AssemblyInfo.cs
 C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrderTest\obj\Debug\netcoreapp1.1\CustomerOrderTest.dll
 C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrderTest\obj\Debug\netcoreapp1.1\CustomerOrderTest.pdb
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\CustomerOrderTest.deps.json
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\CustomerOrderTest.runtimeconfig.json
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\CustomerOrderTest.runtimeconfig.dev.json
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\CustomerOrderTest.dll
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\CustomerOrderTest.pdb
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\CustomerOrder.dll
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\bin\Debug\netcoreapp1.1\CustomerOrder.pdb
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\obj\Debug\netcoreapp1.1\CustomerOrderTest.csprojResolveAssemblyReference.cache
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\obj\Debug\netcoreapp1.1\CustomerOrderTest.AssemblyInfo.cs
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\obj\Debug\netcoreapp1.1\CustomerOrderTest.dll
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrderTest\obj\Debug\netcoreapp1.1\CustomerOrderTest.pdb

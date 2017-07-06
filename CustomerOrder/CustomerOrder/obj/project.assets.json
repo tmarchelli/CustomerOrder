@@ -11129,10 +11129,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marchelli\\Source\\Repos\\CustomerOrder2\\CustomerOrder\\CustomerOrder\\CustomerOrder.csproj",
+      "projectUniqueName": "C:\\GitRepository\\CustomerOrder\\CustomerOrder\\CustomerOrder\\CustomerOrder.csproj",
       "projectName": "CustomerOrder",
-      "projectPath": "C:\\Users\\Marchelli\\Source\\Repos\\CustomerOrder2\\CustomerOrder\\CustomerOrder\\CustomerOrder.csproj",
-      "outputPath": "C:\\Users\\Marchelli\\Source\\Repos\\CustomerOrder2\\CustomerOrder\\CustomerOrder\\obj\\",
+      "projectPath": "C:\\GitRepository\\CustomerOrder\\CustomerOrder\\CustomerOrder\\CustomerOrder.csproj",
+      "outputPath": "C:\\GitRepository\\CustomerOrder\\CustomerOrder\\CustomerOrder\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

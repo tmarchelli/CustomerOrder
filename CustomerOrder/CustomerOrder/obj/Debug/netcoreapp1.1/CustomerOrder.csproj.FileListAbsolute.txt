@@ -16,3 +16,12 @@ C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\obj\D
 C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.AssemblyInfo.cs
 C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.dll
 C:\Users\Marchelli\Source\Repos\CustomerOrder2\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.pdb
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.deps.json
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.runtimeconfig.json
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.runtimeconfig.dev.json
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.dll
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\bin\Debug\netcoreapp1.1\CustomerOrder.pdb
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.csprojResolveAssemblyReference.cache
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.AssemblyInfo.cs
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.dll
+C:\GitRepository\CustomerOrder\CustomerOrder\CustomerOrder\obj\Debug\netcoreapp1.1\CustomerOrder.pdb

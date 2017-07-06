@@ -11999,10 +11999,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marchelli\\Source\\Repos\\CustomerOrder2\\CustomerOrder\\CustomerOrderTest\\CustomerOrderTest.csproj",
+      "projectUniqueName": "C:\\GitRepository\\CustomerOrder\\CustomerOrder\\CustomerOrderTest\\CustomerOrderTest.csproj",
       "projectName": "CustomerOrderTest",
-      "projectPath": "C:\\Users\\Marchelli\\Source\\Repos\\CustomerOrder2\\CustomerOrder\\CustomerOrderTest\\CustomerOrderTest.csproj",
-      "outputPath": "C:\\Users\\Marchelli\\Source\\Repos\\CustomerOrder2\\CustomerOrder\\CustomerOrderTest\\obj\\",
+      "projectPath": "C:\\GitRepository\\CustomerOrder\\CustomerOrder\\CustomerOrderTest\\CustomerOrderTest.csproj",
+      "outputPath": "C:\\GitRepository\\CustomerOrder\\CustomerOrder\\CustomerOrderTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -12010,8 +12010,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\Marchelli\\Source\\Repos\\CustomerOrder2\\CustomerOrder\\CustomerOrder\\CustomerOrder.csproj": {
-              "projectPath": "C:\\Users\\Marchelli\\Source\\Repos\\CustomerOrder2\\CustomerOrder\\CustomerOrder\\CustomerOrder.csproj"
+            "C:\\GitRepository\\CustomerOrder\\CustomerOrder\\CustomerOrder\\CustomerOrder.csproj": {
+              "projectPath": "C:\\GitRepository\\CustomerOrder\\CustomerOrder\\CustomerOrder\\CustomerOrder.csproj"
             }
           }
         }
